@@ -1,0 +1,18 @@
+<ArrayList>
+  <item>
+    <fine>Reckless Driving</fine>
+    <amount>10235.0</amount>
+  </item>
+  <item>
+    <fine>Driving Without a Valid Driver's License</fine>
+    <amount>10200.0</amount>
+  </item>
+  <item>
+    <fine>Distracted Driving</fine>
+    <amount>1050.0</amount>
+  </item>
+  <item>
+    <fine>SPEEDING</fine>
+    <amount>1010.0</amount>
+  </item>
+</ArrayList>

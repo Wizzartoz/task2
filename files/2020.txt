@@ -1,0 +1,28 @@
+{
+    "date_time": "2020-05-05 15:39:03",
+    "first_name": "Misha",
+    "last_name": "Maznichko",
+    "type": "SPEEDING",
+    "fine_amount": 360.00
+}
+{
+    "date_time": "2020-05-05 15:39:03",
+    "first_name": "Ivan",
+    "last_name": "Ivanov",
+    "type": "Distracted Driving",
+    "fine_amount": 380.00
+}
+{
+    "date_time": "2020-05-05 15:39:03",
+    "first_name": "Anton Antonov",
+    "last_name": "Ivanov",
+    "type": "Driving Without a Valid Driver's License",
+    "fine_amount": 3600.00
+}
+{
+    "date_time": "2020-05-05 15:39:03",
+    "first_name": "Vladimir",
+    "last_name": "Vladimirovich",
+    "type": "Reckless Driving",
+    "fine_amount": 3545.00
+}
