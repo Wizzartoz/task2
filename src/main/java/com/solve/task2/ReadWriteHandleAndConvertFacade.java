@@ -10,16 +10,15 @@ import com.solve.task2.service.parser.FileParser;
 import com.solve.task2.service.writer.FileWriter;
 import com.solve.task2.service.writer.XMLWriter;
 
-import java.io.IOException;
 import java.io.File;
+import java.io.IOException;
 import java.util.List;
 
-public class Main {
-
+public class ReadWriteHandleAndConvertFacade {
     private static final String FOLDER_NAME = "files";
     private static final String FILE_OUTPUT_NAME = "fines.xml";
 
-    public static void main(String[] args) {
+    public void begin() {
         File folder = new File(FOLDER_NAME);
         File[] files = folder.listFiles();
         FileParser parser = new DriverInformationParser();

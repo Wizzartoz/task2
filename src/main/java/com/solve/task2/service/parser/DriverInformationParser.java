@@ -43,3 +43,4 @@ public class DriverInformationParser implements FileParser {
         return mapper.readValue(obj, Driver.class);
     }
 }
+
